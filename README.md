@@ -14,7 +14,7 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 >I’m currently learning Java and Django ☕
 
->I’m looking to expand my knowledge in feild on Ai 🤖
+>I’m looking to expand my knowledge in feild on AI 🤖
 
 >Ask me about C++, Python, WebDevelopment 👨🏼‍💻
 
