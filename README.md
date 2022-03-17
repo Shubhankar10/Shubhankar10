@@ -49,8 +49,8 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 <h1 align="center">Projects : </h1>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=TimelyAndroid)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=TimelyAndroid&desc=Hello)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=Octoweek&desc=Hello)
 <h1 align="center">My Github Stats : </h1>
 
 
