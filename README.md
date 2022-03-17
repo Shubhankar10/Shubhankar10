@@ -5,20 +5,20 @@
 
 
 Currently pursuing undergraduate degree in Computer Science and Engineering from **Bhilai Institute of Technology, Durg**. 
-I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India. 
->And love to build new projects.
+I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 
 
->Currently Working on Android Development and a WebApp project
 
->I’m currently learning Java and Django
+>Currently Working on Android Development and a WebApp project 
 
->I’m looking to expand my knowledge in feild on Ai
+>I’m currently learning Java and Django ☕
 
->Ask me about C++, Python, WebDevelopment
+>I’m looking to expand my knowledge in feild on Ai 🤖
 
->Fun fact: Coding is Love 
+>Ask me about C++, Python, WebDevelopment 👨🏼‍💻
+
+>Fun fact: Coding is Love ❤
 
 
 <h1 align="center">Languages & Tools : </h1>
