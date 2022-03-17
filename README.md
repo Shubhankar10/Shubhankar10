@@ -28,7 +28,6 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" height="50px">&nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="50px">&nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" height="50px">&nbsp;
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" height="50px">&nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" height="50px">&nbsp;
 	
 	
