@@ -38,6 +38,9 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30px">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px">&nbsp;
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="30px">&nbsp;
+	
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30px">&nbsp;
+	
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="30px">&nbsp;
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="30px">&nbsp;
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="30px">&nbsp;
@@ -55,16 +58,17 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=Shubhankar10&theme=nord)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhankar10&theme=nord)
+<!-- ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhankar10&theme=vue) -->
 
 <p float="right">
-
-	
 	
 ![Card](https://github-readme-stats.vercel.app/api?username=Shubhankar10&show_icons=true&theme=nord)
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar10&layout=compact&theme=nord)
-	
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar10&layout=compact&theme=nord) -->
+
 </p>
+
+
 <h1 align="center">Get in Touch : </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30px">&nbsp;
