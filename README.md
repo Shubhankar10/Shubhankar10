@@ -10,13 +10,13 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 
 
->Currently Working on Android Development and a WebApp project 
+>Currently Working on an AI/ML project 
 
->I’m currently learning Java and Django ☕
+>I’m currently learning Flutter and AI ☕
 
->I’m looking to expand my knowledge in field on Ai 🤖
+>I’m looking to expand my knowledge in field on AI 🤖
 
->Ask me about C++, Python, WebDevelopment 👨🏼‍💻
+>Ask me about C++, Python, WebDevelopment, Flutter 👨🏼‍💻
 
 >Fun fact: Coding is Love ❤
 
