@@ -5,7 +5,7 @@
 
 
 Currently pursuing undergraduate degree in Computer Science and Engineering from **Bhilai Institute of Technology, Durg**. 
-I am a Pre-Final Year CSE student and Tech enthusiast. I'm based in Bhilai, India.
+I am a Final Year CSE student and Tech enthusiast. I'm based in Bhilai, India.
 
 
 
