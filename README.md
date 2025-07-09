@@ -67,8 +67,14 @@ I'm a passionate developer who enjoys building impactful tech products and solut
 ### 💼 Projects
 
 <p align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Finance-LLMs&repo=audio-to-doc-search" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Finance-LLMs&repo=AI-debate-bot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=NLP_PROJ8-Healthcare-Answer-Summarisation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=Speaker-Verification-ML-Project" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=TimelyAndroid" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=splittr" />
+ <!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=quiz-master" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=splittr" /> -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankar10&repo=KrishiUnnati" />
 </p>
 
